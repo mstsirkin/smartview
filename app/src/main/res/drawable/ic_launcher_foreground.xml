@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+  <!-- TV frame - scaled and centered -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M81,27H27C24.24,27 22,29.24 22,32v36c0,2.76 2.24,5 5,5h21v6h-6v6h24v-6h-6v-6h21c2.76,0 5,-2.24 5,-5V32C87,29.24 84.76,27 81,27zM81,68H27V32h54V68z"/>
+  <!-- Cast wifi waves bottom-left inside TV -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M30,62v6h6c0,-3.31 -2.69,-6 -6,-6z"/>
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M30,53v4.5c5.8,0 10.5,4.7 10.5,10.5H45c0,-8.28 -6.72,-15 -15,-15z"/>
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M30,44v4.5c11.6,0 21,9.4 21,21H55.5c0,-14.08 -11.42,-25.5 -25.5,-25.5z"/>
+  <!-- Letter T -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M54,38h12v4.5h-3.75v13.5h-4.5v-13.5H54V38z"/>
+  <!-- Letter V -->
+  <path
+      android:fillColor="#FFFFFF"
+      android:pathData="M67.5,38h4.5l3,13.5l3,-13.5H82.5l-5.25,18h-4.5L67.5,38z"/>
+</vector>
