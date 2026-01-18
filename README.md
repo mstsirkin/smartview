@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/icon.png" width="128" height="128" alt="Smart View Launcher Icon">
+</p>
+
 # Smart View Launcher
 
 A minimal Android app that provides quick access to Samsung Smart View (screen mirroring).
