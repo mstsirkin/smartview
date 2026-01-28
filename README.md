@@ -6,6 +6,10 @@
 
 A minimal Android app that provides quick access to Samsung Smart View (screen mirroring).
 
+## Download
+
+Get the latest APK from [Releases](https://github.com/mstsirkin/smartview/releases).
+
 ## Features
 
 - **Home screen shortcut** - One tap to open the Smart View device picker
